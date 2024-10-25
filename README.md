@@ -1,7 +1,4 @@
 # MedSync
-
-# Open IMIS Testing Repository
-
 ## Overview
 This repository contains the documentation and results of comprehensive testing performed on the Open IMIS (Insurance Management Information System) project. The testing covers various functionalities to ensure the robustness and reliability of the system.
 
