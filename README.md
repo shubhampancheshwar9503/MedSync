@@ -41,5 +41,5 @@ MedSync is a healthcare management application designed to streamline patient da
 ## Usage
 - Access the application in your web browser at `http://localhost:3000`.
 - Follow the on-screen instructions to navigate through the application.
-- 
+  
 Feel free to modify the sections to better fit your project details and personal preferences!
